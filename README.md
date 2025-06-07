@@ -30,6 +30,5 @@ Built with **WebRTC**, **Socket.io**, **Node.js**, and **React**, ConnectSpace o
 - Express
 - Socket.io
 - WebRTC signaling server (via Socket.io)
-- MongoDB (optional, for persistent room data if used)
+- MongoDB 
 
-## 🗺️ Project Structure
